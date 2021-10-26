@@ -27,3 +27,8 @@ Text `POS` stands for the save number of that day, as I could've saved multiple 
 `YYYY-MM-DD_POS` in the file format of **.base64**
 
 You are free to use any of these saves and load them into your own load of Reactor Knockoff
+
+| Badge Name | Badge |
+| ---------- | ----- |
+| Repository Size | ![](https://img.shields.io/github/repo-size/meng-jack/reactor-saves?style=flat-square) | 
+| File Size | ![](https://img.shields.io/github/languages/code-size/meng-jack/reactor-saves?style=flat-square) | 
