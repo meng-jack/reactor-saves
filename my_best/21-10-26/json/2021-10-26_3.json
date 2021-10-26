@@ -1,0 +1,2011 @@
+{
+  "active_tiles_2d": {
+    "rows": 18,
+    "cols": 21,
+    "tiles": [
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "seaborgium3",
+        "ticks": 11345,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11348,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 3366,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11693,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11693,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11694,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11694,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11695,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11697,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 4716,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 12032,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "reflector5",
+        "ticks": 8414,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 4627,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11726,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11722,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "seaborgium3",
+        "ticks": 11794,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11803,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11816,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11826,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 935,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11143,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11146,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 4472,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11702,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11703,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11704,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11704,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11705,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11706,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 5852,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 12035,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11797,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11814,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11819,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11829,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 4893,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 4102,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11729,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11719,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "seaborgium3",
+        "ticks": 11799,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11808,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11812,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11821,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 1772,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 10959,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 10962,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 5685,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11710,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11710,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11711,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11711,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11712,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11714,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 7153,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 12038,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "reflector5",
+        "ticks": 893,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "thorium1",
+        "ticks": 6474,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 1732,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "thorium1",
+        "ticks": 6478,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 1744,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "thorium1",
+        "ticks": 6480,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 1760,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "thorium1",
+        "ticks": 6484,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 4884,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 805,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium2",
+        "ticks": 11943,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 4597,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 1128,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 2256,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 1129,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 2258,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 3576,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 12045,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "seaborgium3",
+        "ticks": 11285,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 5125,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11293,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 5219,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11039,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 4946,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 10889,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 4850,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 3456,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 3467,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 871,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 10931,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8162,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11062,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8430,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11359,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8446,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11368,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 12042,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "dolorium3",
+        "ticks": 31868,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 12070,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "seaborgium3",
+        "ticks": 11287,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8396,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11290,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8382,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11042,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 7987,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 10893,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 7890,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 3460,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 3465,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8134,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 10933,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 1815,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11065,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 1937,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11361,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 1472,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11365,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "reactor_plating5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating3",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating2",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8028,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8150,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "id": "reactor_plating5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating3",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating2",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 10985,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 10988,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "reflector5",
+        "ticks": 8906,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 31241,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 9356,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "reactor_plating5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating3",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating2",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reactor_plating1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8082,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8180,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 32598,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8546,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 15420,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "capacitor4",
+        "activated": true,
+        "heat_contained": 0.0005882352941176471
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent3",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_outlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11104,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium3",
+        "ticks": 11120,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "reflector5",
+        "ticks": 7820,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 25019,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 9224,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "capacitor4",
+        "activated": true,
+        "heat_contained": 0.0005882352941176471
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent3",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "id": "reflector5",
+        "ticks": 8272,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8276,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 32645,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8706,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 15423,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "capacitor4",
+        "activated": true,
+        "heat_contained": 0.0005882352941176471
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent3",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "id": "seaborgium2",
+        "ticks": 4630,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium2",
+        "ticks": 4633,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "reflector5",
+        "ticks": 8334,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 25060,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 9352,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "capacitor4",
+        "activated": true,
+        "heat_contained": 0.0005882352941176471
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent3",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 40947,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 41013,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "reflector5",
+        "ticks": 8315,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 53594613.99495598
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8321,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 32693,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 8794,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 15426,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "capacitor5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_exchanger4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent3",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "seaborgium2",
+        "ticks": 5773,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "vent4",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "seaborgium2",
+        "ticks": 5777,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "reflector5",
+        "ticks": 8424,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 25101,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 9594,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 32739,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "reflector5",
+        "ticks": 9242,
+        "activated": true,
+        "heat_contained": 0
+      },
+      null,
+      null,
+      {
+        "id": "dolorium2",
+        "ticks": 15429,
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "particle_accelerator1",
+        "activated": true,
+        "heat_contained": 0
+      },
+      {
+        "id": "heat_inlet5",
+        "activated": true,
+        "heat_contained": 0
+      }
+    ]
+  },
+  "tile_queue": [],
+  "upgrades": [
+    {
+      "id": "chronometer",
+      "level": 6
+    },
+    {
+      "id": "forceful_fusion",
+      "level": 5
+    },
+    {
+      "id": "heat_control_operator",
+      "level": 1
+    },
+    {
+      "id": "heat_outlet_control_operator",
+      "level": 1
+    },
+    {
+      "id": "improved_piping",
+      "level": 10
+    },
+    {
+      "id": "improved_alloys",
+      "level": 10
+    },
+    {
+      "id": "improved_power_lines",
+      "level": 12
+    },
+    {
+      "id": "improved_wiring",
+      "level": 10
+    },
+    {
+      "id": "perpetual_capacitors",
+      "level": 0
+    },
+    {
+      "id": "improved_coolant_cells",
+      "level": 4
+    },
+    {
+      "id": "improved_reflector_density",
+      "level": 5
+    },
+    {
+      "id": "improved_neutron_reflection",
+      "level": 5
+    },
+    {
+      "id": "perpetual_reflectors",
+      "level": 1
+    },
+    {
+      "id": "improved_heat_exchangers",
+      "level": 6
+    },
+    {
+      "id": "reinforced_heat_exchangers",
+      "level": 5
+    },
+    {
+      "id": "active_exchangers",
+      "level": 4
+    },
+    {
+      "id": "improved_heat_vents",
+      "level": 6
+    },
+    {
+      "id": "improved_heatsinks",
+      "level": 5
+    },
+    {
+      "id": "active_venting",
+      "level": 4
+    },
+    {
+      "id": "expand_reactor_rows",
+      "level": 7
+    },
+    {
+      "id": "expand_reactor_cols",
+      "level": 7
+    },
+    {
+      "id": "laboratory",
+      "level": 0
+    },
+    {
+      "id": "infused_cells",
+      "level": 0
+    },
+    {
+      "id": "unleashed_cells",
+      "level": 0
+    },
+    {
+      "id": "quantum_buffering",
+      "level": 0
+    },
+    {
+      "id": "full_spectrum_reflectors",
+      "level": 0
+    },
+    {
+      "id": "fluid_hyperdynamics",
+      "level": 0
+    },
+    {
+      "id": "fractal_piping",
+      "level": 0
+    },
+    {
+      "id": "ultracryonics",
+      "level": 0
+    },
+    {
+      "id": "phlembotinum_core",
+      "level": 0
+    },
+    {
+      "id": "protium_cells",
+      "level": 0
+    },
+    {
+      "id": "unstable_protium",
+      "level": 0
+    },
+    {
+      "id": "heat_reflection",
+      "level": 0
+    },
+    {
+      "id": "experimental_capacitance",
+      "level": 0
+    },
+    {
+      "id": "vortex_cooling",
+      "level": 0
+    },
+    {
+      "id": "underground_heat_extraction",
+      "level": 0
+    },
+    {
+      "id": "vortex_extraction",
+      "level": 0
+    },
+    {
+      "id": "explosive_ejection",
+      "level": 0
+    },
+    {
+      "id": "thermionic_conversion",
+      "level": 0
+    },
+    {
+      "id": "micro_capacitance",
+      "level": 0
+    },
+    {
+      "id": "singularity_harnessing",
+      "level": 0
+    },
+    {
+      "id": "improved_particle_accelerators1",
+      "level": 0
+    },
+    {
+      "id": "improved_particle_accelerators2",
+      "level": 0
+    },
+    {
+      "id": "improved_particle_accelerators3",
+      "level": 0
+    },
+    {
+      "id": "improved_particle_accelerators4",
+      "level": 0
+    },
+    {
+      "id": "improved_particle_accelerators5",
+      "level": 0
+    },
+    {
+      "id": "improved_particle_accelerators6",
+      "level": 0
+    },
+    {
+      "id": "cell_power_uranium",
+      "level": 11
+    },
+    {
+      "id": "cell_power_plutonium",
+      "level": 9
+    },
+    {
+      "id": "cell_power_thorium",
+      "level": 6
+    },
+    {
+      "id": "cell_power_seaborgium",
+      "level": 4
+    },
+    {
+      "id": "cell_power_dolorium",
+      "level": 1
+    },
+    {
+      "id": "cell_power_nefastium",
+      "level": 0
+    },
+    {
+      "id": "cell_tick_uranium",
+      "level": 11
+    },
+    {
+      "id": "cell_tick_plutonium",
+      "level": 9
+    },
+    {
+      "id": "cell_tick_thorium",
+      "level": 6
+    },
+    {
+      "id": "cell_tick_seaborgium",
+      "level": 3
+    },
+    {
+      "id": "cell_tick_dolorium",
+      "level": 1
+    },
+    {
+      "id": "cell_tick_nefastium",
+      "level": 0
+    },
+    {
+      "id": "cell_perpetual_uranium",
+      "level": 1
+    },
+    {
+      "id": "cell_perpetual_plutonium",
+      "level": 1
+    },
+    {
+      "id": "cell_perpetual_thorium",
+      "level": 1
+    },
+    {
+      "id": "cell_perpetual_seaborgium",
+      "level": 1
+    },
+    {
+      "id": "cell_perpetual_dolorium",
+      "level": 1
+    },
+    {
+      "id": "cell_perpetual_nefastium",
+      "level": 0
+    }
+  ],
+  "current_power": 0,
+  "current_money": 763706696433646.2,
+  "current_heat": 0,
+  "exotic_particles": 625,
+  "current_exotic_particles": 0,
+  "total_exotic_particles": 0,
+  "buttons_state": {
+    "#pause_toggle": false,
+    "#auto_sell_toggle": false,
+    "#auto_buy_toggle": false,
+    "#heat_control_toggle": true,
+    "#speed_hack": false,
+    "#offline_tick": false,
+    "#more_stats_toggle": false
+  },
+  "protium_particles": 0,
+  "current_objective": 23,
+  "last_tick_time": 1635270376759,
+  "offline_tick": true,
+  "version": "1.3.2"
+}
