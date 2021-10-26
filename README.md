@@ -1,6 +1,15 @@
 # reactor-saves
 Saves of my Reactor Knockoff gameplay
 
+### Notice: I am not responsible for any crashes or loss of data if you are using the saves
+
+You should only be copying files in the `.base64` file types and using only `.json` file formats to view my saves "visually" and not using them as a way 
+to import the save.
+
+This is also that the import save decryptor interprets everything in base64
+
+## File informations
+
 Find the game [here](https://cwmonkey.github.io/reactor-knockoff/)
 
 Save sections will be divided into folders, with each folder being a different session/world
