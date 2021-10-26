@@ -5,11 +5,11 @@ Find the game [here](https://cwmonkey.github.io/reactor-knockoff/)
 
 Save sections will be divided into folders, with each folder being a different session/world
 
-Each section will have folders with the appropriate date & time:
+<u>Each section will have folders with the appropriate date & time:</u>
 
 `YY-MM-DD` 
 
-After this each subsection will have another two folders containing the base64 save and the visual JSON save:
+<u>After this each subsection will have another two folders containing the base64 save and the visual JSON save:</u>
 
 Text `POS` stands for the save number of that day, as I could've saved multiple times during that day
 
