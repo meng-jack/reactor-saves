@@ -11,8 +11,10 @@ Each section will have folders with the appropriate date & time:
 
 After this each subsection will have another two folders containing the base64 save and the visual JSON save:
 
-`YYYY-MM-DD` in the file format of **.json** - these are for visual representations of the save
+Text `POS` stands for the save number of that day, as I could've saved multiple times during that day
 
-`YYYY-MM-DD` in the file format of **.base64**
+`YYYY-MM-DD_POS` in the file format of **.json** - these are for visual representations of the save
+
+`YYYY-MM-DD_POS` in the file format of **.base64**
 
 You are free to use any of these saves and load them into your own load of Reactor Knockoff
