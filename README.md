@@ -8,6 +8,12 @@ to import the save.
 
 This is also that the import save decryptor interprets everything in base64
 
+### Issues
+If you have any issues with either using the auto-update script or just exploring this repository, please place an issue in the issues tab.
+
+However, if your issue is something to do with your side or github itself, do not place the issue in this repository!!! Please submit a proper
+ticket to the github working-tree.
+
 ## File informations
 
 Find the game [here](https://cwmonkey.github.io/reactor-knockoff/)
