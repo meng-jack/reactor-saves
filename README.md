@@ -6,6 +6,8 @@ Saves of my Reactor Knockoff gameplay
 You should only be copying files in the `.base64` file types and using only `.json` file formats to view my saves "visually" and not using them as a way 
 to import the save.
 
+JSON files are rarely updated so if you want to make a JSON file for a save, send a PR!
+
 This is also that the import save decryptor interprets everything in base64
 
 ### Issues
